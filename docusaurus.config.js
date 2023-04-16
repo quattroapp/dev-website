@@ -68,6 +68,11 @@ const config = {
         },
         items: [
           {
+            to: '/docs',
+            position: 'left',
+            label: 'Docs',
+          },
+          {
             to: '/api',
             position: 'left',
             label: 'Api Reference',
