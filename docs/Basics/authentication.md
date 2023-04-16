@@ -13,7 +13,7 @@ First party API keys can only be generated from the company. For third party aut
 Your application needs a secure login page that can send a POST request through HTTPS to the QuattroApp API.
 
 #### 2) Exchange user credentials for a valid access token
-Once the user has inserted the email and password combination you will send a POST request to /oauth/token to validate the user and retrieve an [access token](access-token.md).
+Once the user has inserted the email and password combination you will send a POST request to /oauth/token to validate the user and retrieve an [access token](access-token).
 
 :::note
 User accounts can be disabled, be sure to catch this error and display an informative message to the user.

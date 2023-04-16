@@ -9,8 +9,8 @@ Your application UI must change according to the permissions that the current us
 :::
 
 ## Permissions
-A permission is simple string with the generic format `{model}.{action}`. You can find the list of all the permissions with a brief description in the [permissions page](permissions)
+A permission is simple string with the generic format `{model}.{action}`. You can find the list of all the permissions with a brief description in the [permissions page](#permissions)
 
 ## Roles
 Roles are basically a group of permissions that can be assigned to a user, the application logic should not change based on roles but only on permissions. 
-You can find the list of all the different roles in the [roles page](roles)
+You can find the list of all the different roles in the [roles page](#roles)
