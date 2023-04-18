@@ -17,7 +17,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">
             Connects your application to QuattroApp, the cloud-based digital solution tailored on the needs of the small businesses.<br/>
             Here you will find the API reference and the documentation to help you navigate through our services.<br/>
-            <b>Remember: Our API is currently in private beta, so you will need to send us a request to get access to it.</b>
+            <b>Note: Our API is currently in private beta, so you will need to send us a request to get access to it.</b>
         </p>
         <div className={styles.buttons}>
           <Link
