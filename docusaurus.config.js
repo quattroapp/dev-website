@@ -61,10 +61,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Developers',
         logo: {
           alt: 'QuattroApp Logo',
           src: 'img/logo.svg',
+          srcDark: 'img/logo_dark.svg',
         },
         items: [
           {
@@ -75,7 +75,12 @@ const config = {
           {
             to: '/api',
             position: 'left',
-            label: 'Api Reference',
+            label: 'API Reference',
+          },
+          {
+            href: 'https://www.quattroapp.cloud/',
+            position: 'right',
+            label: 'Website',
           },
         ],
       },

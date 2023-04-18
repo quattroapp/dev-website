@@ -14,9 +14,13 @@
 }
 
 .heroTitle {
-  background: linear-gradient(90deg, #081B34 0%, #25ADFC 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+
+}
+
+.logo {
+  width: 316px;
+  height: auto;
+  margin-bottom: 64px;
 }
 
 @media screen and (max-width: 996px) {
