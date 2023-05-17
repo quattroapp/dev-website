@@ -73,11 +73,6 @@ const config = {
             label: 'Docs',
           },
           {
-            to: '/api',
-            position: 'left',
-            label: 'API Reference',
-          },
-          {
             href: 'https://www.quattroapp.cloud/',
             position: 'right',
             label: 'Website',
